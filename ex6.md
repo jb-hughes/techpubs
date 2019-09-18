@@ -1,0 +1,1 @@
+This is the exercise file #6.
